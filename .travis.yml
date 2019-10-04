@@ -3,4 +3,3 @@ jdk: oraclejdk8
 before_script: cd weka
 before_install: cd weka
 dist: trusty
-install: ant deps
